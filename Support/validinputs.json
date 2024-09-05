@@ -1,0 +1,16 @@
+[
+  {
+    "university": "UNSW",
+    "country": "Argentina",
+    "title": "BFA",
+    "degree": "xyz",
+    "year": "2013"
+  },
+  {
+    "country": "Argentina",
+    "degree": "xyz123",
+    "title": "BFA",
+    "university": "UNSW12#%^",
+    "year": "2013"
+  }
+]
